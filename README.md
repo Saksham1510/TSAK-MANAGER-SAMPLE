@@ -22,16 +22,7 @@ Open `index.html` in any browser, or deploy to Railway/Netlify/Vercel in seconds
 - Session persistence via localStorage
 - Role selection on signup (Admin / Member)
 
-### Role-Based Access Control (RBAC)
-| Feature | Admin | Member |
-|---|---|---|
-| Create / Edit / Delete Projects | ✅ | ❌ |
-| Create / Edit Tasks | ✅ | ✅ |
-| Delete own tasks | ✅ | ✅ |
-| Manage team members | ✅ | ❌ |
-| Change user roles | ✅ | ❌ |
-| View all tasks | ✅ | Own only |
-| View Team page | ✅ | ❌ |
+
 
 ### Projects
 - Create, edit, and delete projects (Admin only)
