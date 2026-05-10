@@ -2,9 +2,6 @@
 
 A full-featured project management web application with role-based access control, task tracking, and team collaboration — all in a single HTML file with zero dependencies except Google Fonts.
 
-## 🚀 Live Demo
-
-Open `index.html` in any browser, or deploy to Railway/Netlify/Vercel in seconds.
 
 **Demo Credentials:**
 | Email | Password | Role |
