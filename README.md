@@ -102,8 +102,8 @@ vercel
 
 ```
 project-manager/
-├── index.html    # Complete application (HTML + CSS + JS)
-└── README.md     # This file
+├── index.html    
+└── README.md   
 ```
 
 The entire app is **one self-contained file** — no build step, no package.json, no node_modules.
